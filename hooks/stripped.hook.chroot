@@ -39,13 +39,13 @@ apt-get update
 echo download skype
 wget -nv -O /tmp/skype.deb http://www.skype.com/go/getskype-linux-deb
 echo download steam
-wget -nv -O /tmp/steam-launcher.deb http://192.168.1.7:3142/repo.steampowered.com/steam/pool/steam/s/steam/steam-launcher_1.0.0.48_all.deb
+wget -nv -O /tmp/steam-launcher.deb http://repo.steampowered.com/steam/pool/steam/s/steam/steam-launcher_1.0.0.48_all.deb
 echo download adobe
-wget -nv -O /tmp/AdbeRdr9.5.5-1_i386linux_enu.deb http://192.168.1.1:3142/ftp.adobe.com/pub/adobe/reader/unix/9.x/9.5.5/enu/AdbeRdr9.5.5-1_i386linux_enu.deb
+wget -nv -O /tmp/AdbeRdr9.5.5-1_i386linux_enu.deb http://ftp.adobe.com/pub/adobe/reader/unix/9.x/9.5.5/enu/AdbeRdr9.5.5-1_i386linux_enu.deb
 echo download chrome
 wget -nv -O /tmp/google-chrome-stable_current_amd64.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 echo download spotify
-wget -nv -O /tmp/spotify-client_amd64.deb http://192.168.1.1:3142/repository.spotify.com/pool/non-free/s/spotify/spotify-client_0.9.10.17.g4129e1c.78-1_amd64.deb
+wget -nv -O /tmp/spotify-client_amd64.deb http://repository.spotify.com/pool/non-free/s/spotify/spotify-client_0.9.10.17.g4129e1c.78-1_amd64.deb
 #echo download google-earth
 #wget -nv -O /tmp/google-earth_i386.deb https://dl.google.com/dl/earth/client/current/google-earth-stable_current_i386.deb
 
