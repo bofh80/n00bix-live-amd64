@@ -1,2 +1,5 @@
+dh-systemd
+libpam-systemd
+systemd
 systemd-sysv
-
+systemd-ui
