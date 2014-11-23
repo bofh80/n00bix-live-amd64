@@ -3,3 +3,4 @@ libpam-systemd
 systemd
 systemd-sysv
 systemd-ui
+bash-completion
